@@ -1,0 +1,14 @@
+body {
+  background-image: url(../img/yen1.jpg);
+  background-position: 50% 50px;
+}
+ div.login {
+  text-align: center;
+  font-family: 'Teko', sans-serif;
+
+}
+div.register {
+  text-align: center;
+  font-family: 'Teko', sans-serif;
+
+}
